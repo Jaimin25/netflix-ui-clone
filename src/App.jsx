@@ -1,5 +1,4 @@
 import './App.css'
-import BackgroundImage from './assets/bg.jpg';
 
 function App() {
 
