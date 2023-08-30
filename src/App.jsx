@@ -28,8 +28,8 @@ function App() {
               Sign In
             </button>
             <div className='flex my-3 justify-center items-center'>
-            <input id="remember_me" type="checkbox" className='h-[16px] w-[16px] border-0'></input><label className='font-normal flex flex-1 text-[#b3b3b3] text-[13px]' >Remember Me</label>
-            <div className='text-[#b3b3b3] text-[13px] hover:underline cursor-pointer'>Need Help?</div>
+            <input id="remember_me" type="checkbox" className='h-[16px] w-[16px] border-0'></input><label className='ml-1 font-normal flex flex-1 text-[#b3b3b3] text-sm' >Remember Me</label>
+            <div className='text-[#b3b3b3] text-sm hover:underline cursor-pointer'>Need Help?</div>
             </div>
             <p className='text-neutral-500 mt-12'>New to Netflix?
               <span className='text-white ml-1 hover:underline cursor-pointer'>
